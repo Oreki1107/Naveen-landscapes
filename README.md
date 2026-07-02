@@ -1,126 +1,172 @@
-
-
-
-
-
-
-![React](https://img.shields.io/badge/React-19-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
-![Vite](https://img.shields.io/badge/Vite-6-purple)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38BDF8)
-![Supabase](https://img.shields.io/badge/Supabase-Backend-3ECF8E)
-![Vercel](https://img.shields.io/badge/Hosted%20on-Vercel-black)
-![SEO](https://img.shields.io/badge/SEO-Optimized-success)
-
-
-
-
+<div align="center">
 
 # Naveen Landscapes
+### Premium Luxury Landscaping Website
 
-A premium luxury landscaping company website designed and developed for **Naveen Landscapes**, showcasing high-end residential, commercial, hospitality, and large-acre landscape projects with a modern digital experience.
+A modern, fully responsive business website designed and developed for **Naveen Landscapes**, a premium landscape architecture company serving South India.
 
-**Live Website:** https://www.naveenlandscapes.com
+Built with modern web technologies, premium UI design, responsive layouts, dynamic product showcase, consultation booking, email automation, and database integration.
 
----
-
-## Project Overview
-
-This project was built as a complete production-ready business website focused on luxury branding, user experience, SEO, and lead generation.
-
-The objective was to establish a premium online presence while providing visitors with an intuitive experience to explore services, products, company information, and request consultations.
-
----
-
-## Features
-
-- Premium luxury UI/UX
-- Fully responsive design
-- SEO optimized
-- Google indexing ready
-- Structured Schema.org markup
-- Dynamic sitemap generation
-- robots.txt configuration
-- Newsletter subscription
-- Consultation booking
-- Product enquiry forms
-- Company catalogue download
-- Google Maps integration
-- Social media integration
-- Premium animations and transitions
-- Fast loading and optimized assets
-
----
-
-## Technology Stack
-
-### Frontend
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-
-### Backend
-
-- Supabase
-- Resend Email API
-
-### Hosting & Infrastructure
-
-- Vercel
-- GoDaddy DNS
-- Google Workspace
-
----
-
-## SEO Implementation
-
-Implemented production-ready SEO including:
-
-- Meta Tags
-- Open Graph Tags
-- Twitter Cards
-- XML Sitemap
-- robots.txt
-- Canonical URLs
-- JSON-LD Structured Data
-- Local Business Schema
-- Organization Schema
-- Professional Service Schema
-- Website Schema
-- WebPage Schema
-
----
-
-## Business Features
-
-- Consultation Request Form
-- Product Enquiry System
-- Newsletter Subscription
-- Direct Email Notifications
-- Premium Catalogue Download
-- Google Maps Location
-- Social Media Integration
-
----
-
-## Deployment
-
-**Production**
+### Live Website
 
 https://www.naveenlandscapes.com
 
-Hosted using:
+---
 
-- Vercel
-- GoDaddy Domain
-- Google Workspace Email
-- Resend
+<img src="docs/hero.png" width="100%">
+
+</div>
 
 ---
 
-## Getting Started
+# Project Overview
+
+This project was developed as a complete production-ready website for a real landscaping company.
+
+The objective was to create a premium digital experience that reflects the luxury branding of the company while making it easy for customers to:
+
+- Explore completed projects
+- Browse landscaping services
+- View premium planter collections
+- Submit consultation requests
+- Send product enquiries
+- Subscribe to newsletters
+- Contact the company
+
+The website combines modern frontend design with cloud backend services for seamless lead generation.
+
+---
+
+# Features
+
+## Premium UI/UX
+
+- Luxury dark & light themed interface
+- Responsive design
+- Smooth animations
+- Interactive components
+- Modern typography
+- High-quality image galleries
+
+---
+
+## Interactive Sections
+
+- Hero Landing Page
+- About Company
+- Services Showcase
+- Project Portfolio
+- Before / After Comparison Slider
+- Premium Product Catalogue
+- Consultation Form
+- Testimonials
+- Contact Section
+- Newsletter Subscription
+
+---
+
+## Backend Features
+
+- Consultation Form
+- Product Enquiry Form
+- Newsletter Subscription
+- Email Notifications
+- Cloud Database Storage
+- Spam Protection
+- Production Deployment
+
+---
+
+# Tech Stack
+
+| Category | Technologies |
+|-----------|-------------|
+| Frontend | React, TypeScript, Vite |
+| Styling | Tailwind CSS |
+| Backend | Vercel Serverless Functions |
+| Database | Supabase |
+| Email Service | Resend |
+| Hosting | Vercel |
+| DNS | GoDaddy |
+| Business Email | Google Workspace |
+
+---
+
+# Screenshots
+
+## Landing Page
+
+<img src="docs/hero.png">
+
+---
+
+## Services
+
+<img src="docs/services.png">
+
+---
+
+## Projects
+
+<img src="docs/projects.png">
+
+---
+
+## Before & After Comparison
+
+<img src="docs/before-after.png">
+
+---
+
+## Premium Product Collection
+
+<img src="docs/products.png">
+
+---
+
+## Consultation Booking
+
+<img src="docs/consultation.png">
+
+---
+
+## Process
+
+<img src="docs/process.png">
+
+---
+
+# Project Highlights
+
+- Fully responsive
+- Production deployed
+- Business email integration
+- Custom domain
+- Newsletter automation
+- Product enquiry workflow
+- Consultation booking workflow
+- Cloud database
+- Premium UI
+- Modern animations
+- Mobile optimized
+
+---
+
+# Folder Structure
+
+```
+src/
+components/
+hooks/
+pages/
+public/
+api/
+assets/
+```
+
+---
+
+# Installation
 
 Clone the repository
 
@@ -140,32 +186,45 @@ Run locally
 npm run dev
 ```
 
-Build for production
+---
 
-```bash
-npm run build
+# Environment Variables
+
+Create a `.env.local`
+
+```env
+RESEND_API_KEY=
+SUPABASE_URL=
+SUPABASE_ANON_KEY=
+TO_EMAIL=
 ```
 
 ---
 
-## Project Status
+# Live Demo
 
-Production Ready
-
-- Live Website
-- Responsive
-- SEO Optimized
-- Performance Optimized
-- Production Deployment Complete
+https://www.naveenlandscapes.com
 
 ---
 
-## Disclaimer
+# Author
 
-This repository showcases the technical implementation of the project for portfolio purposes.
+**Mohan Krishnan S**
 
-All branding, logos, images, product photographs, and business content belong to **Naveen Landscapes** and are used with permission for demonstration of development work.
+AI & Data Science Undergraduate
+
+Full Stack Web Developer
+
+GitHub
+
+https://github.com/Oreki1107
 
 ---
 
-Developed by **Mohan Krishnan S**
+## License
+
+This repository is shared for portfolio purposes.
+
+Project assets, branding, photographs, and business content belong to **Naveen Landscapes**.
+
+The source code is available for educational and portfolio viewing only.
