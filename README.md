@@ -8,4 +8,8 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
-  
+
+
+  View the catalogue on the live website:
+
+  https://www.naveenlandscapes.com
