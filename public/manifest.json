@@ -1,0 +1,16 @@
+{
+  "name": "Naveen Landscapes",
+  "short_name": "NaveenLandscapes",
+  "description": "Premium Landscape Design & Execution in Chennai & Bengaluru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F6",
+  "theme_color": "#344E41",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

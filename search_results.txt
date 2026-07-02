@@ -1,0 +1,19 @@
+.\src\app\components\PremiumCollection.tsx:30:'Mocha Series Planter', 'Tower Series Planter', 'Zen Square Planter',
+.\src\app\components\PremiumCollection.tsx:31:'Zen Rectangle Planter', 'Vintage Square Planter', 'Vintage Rectangle Planter',
+.\src\app\components\PremiumCollection.tsx:32:'Garden Tray Planter', 'Square Series Planter', 'Box Tray Planter',
+.\src\app\components\PremiumCollection.tsx:67:name: 'Zen Square Planter',
+.\src\app\components\PremiumCollection.tsx:68:description: 'Minimal modern square planters for contemporary landscapes and terraces.',
+.\src\app\components\PremiumCollection.tsx:83:name: 'Vintage Square Planter',
+.\src\app\components\PremiumCollection.tsx:107:name: 'Square Series Planter',
+.\src\app\components\PrestigiousProjects.tsx:12:'The Palms Residency', 'Pidilite Industries', 'V Square Infra', 'Asta Arise Apartment',
+.\src\app\components\ui\avatar.tsx:31:className={cn("aspect-square size-full", className)}
+.\src\app\components\ui\radio-group.tsx:30:"border-input text-primary focus-visible:border-ring focus-visible:ring-ring/50 aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive dark:bg-input/30 aspect-square size-4 shrink-0 rounded-full border shadow-xs transition-[color,box-shadow] outline-none focus-visible:ring-[3px] disabled:cursor-not-allowed disabled:opacity-50",
+.\src\app\components\ui\sidebar.tsx:429:"text-sidebar-foreground ring-sidebar-ring hover:bg-sidebar-accent hover:text-sidebar-accent-foreground absolute top-3.5 right-3 flex aspect-square w-5 items-center justify-center rounded-md p-0 outline-hidden transition-transform focus-visible:ring-2 [&>svg]:size-4 [&>svg]:shrink-0",
+.\src\app\components\ui\sidebar.tsx:564:"text-sidebar-foreground ring-sidebar-ring hover:bg-sidebar-accent hover:text-sidebar-accent-foreground peer-hover/menu-button:text-sidebar-accent-foreground absolute top-1.5 right-1 flex aspect-square w-5 items-center justify-center rounded-md p-0 outline-hidden transition-transform focus-visible:ring-2 [&>svg]:size-4 [&>svg]:shrink-0",
+.\src\imports\pasted_text\premium-collection-quote.md:76:Zen Square Planter
+.\src\imports\pasted_text\premium-collection-quote.md:79:Minimal modern square planters for contemporary landscapes.
+.\src\imports\pasted_text\premium-collection-quote.md:86:Vintage Square Planter
+.\src\imports\pasted_text\premium-collection-quote.md:101:Square Series Planter
+.\src\imports\pasted_text\premium-collection-quote.md:256:Zen Square Planter
+.\src\imports\pasted_text\premium-collection-quote.md:258:Vintage Square Planter
+.\src\imports\pasted_text\premium-collection-quote.md:261:Square Series Planter
