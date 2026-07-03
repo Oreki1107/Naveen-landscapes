@@ -102,13 +102,13 @@ The website combines modern frontend design with cloud backend services for seam
 
 ## Services
 
-<img src="docs/services.png">
+<img src="docs/projects.png">
 
 ---
 
 ## Projects
 
-<img src="docs/projects.png">
+<img src="docs/gallery.png">
 
 ---
 
