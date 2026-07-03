@@ -223,8 +223,8 @@ https://github.com/Oreki1107
 
 ## License
 
-This repository is shared for portfolio purposes.
+© 2026 Mohan Krishnan.
 
-Project assets, branding, photographs, and business content belong to **Naveen Landscapes**.
+This repository is provided for portfolio and demonstration purposes only.
 
-The source code is available for educational and portfolio viewing only.
+The code, design, branding, and assets are not licensed for reuse, redistribution, or commercial use without written permission.
